@@ -1,0 +1,23 @@
+header{
+    background-color: coral;
+}
+
+.bg-1{
+    background-color: green;
+    color: #ffffff;
+}
+
+.bg-2{
+    background-color: cadetblue;
+    color: #ffffff;
+}
+
+.container-fluid {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bg-4 { 
+    background-color: #2f2f2f;
+    color: #ffffff;
+}
